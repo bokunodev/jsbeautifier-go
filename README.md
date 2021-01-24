@@ -14,7 +14,7 @@ Implemented most of the original features from jsbeautifier (missing features ar
 
 ## What doesn't work
 * Unpacking & Deobfuscation (and with that code eval)
-* Reading from stdin
+* ~~Reading from stdin~~
 
 ## Priority
 1. Finish implementing features to match the current state of JsBeautifier
@@ -56,7 +56,7 @@ options:
     -i --stdin                      Use stdin as input
     -h --help                       Show this screen
     --version                       Show version
-````
+```
 
 ## License
 You are free to use this in any way you want, in case you find this useful or working for you but you must keep the copyright notice and license. (MIT)
